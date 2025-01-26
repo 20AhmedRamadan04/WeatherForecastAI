@@ -14,7 +14,7 @@ from termcolor import colored  # Import termcolor for colored output
 
 
 class WeatherService:
-    API_KEY = '385414ac584f5359e553926ac876ed7b'
+    API_KEY = 'Your API Key'
     BASE_URL = 'https://api.openweathermap.org/data/2.5/'
 
     @staticmethod
