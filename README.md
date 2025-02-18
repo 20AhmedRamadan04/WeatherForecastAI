@@ -1,4 +1,4 @@
-```markdown
+```
 # 🌦️ **Weather Prediction & Climate Insights** 🌦️
 
 This project is a weather forecasting system that predicts rain, temperature, and humidity while offering climate insights to raise awareness about environmental changes. The bot initially posted weather updates to Twitter but is being upgraded into a real-time web application! 🌍💬
